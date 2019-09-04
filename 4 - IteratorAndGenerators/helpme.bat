@@ -1,6 +1,6 @@
 call npm run compile
 
-call cd .compiled
+call cd .compiled/2 - Generators
 
 ECHO.
 ECHO ***__________________________________________________________________________***
