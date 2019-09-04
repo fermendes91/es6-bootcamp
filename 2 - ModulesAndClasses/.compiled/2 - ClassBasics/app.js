@@ -138,5 +138,10 @@ console.log('\nTrabalhando com Extensão de uma classe já construida');
 
 var numberArray = new _convertableArray2.default();
 
-console.log(numberArray.convert());
+console.log('\nIsto não vai funcionar no compilador Babel, porque não é possivel fazer extends de uma Built-in class\n' + 'tendo em vista que o ES5 não tem esse suporte também.');
+
+// Isto não vai funcionar no compilador Babel, porque não é possivel fazer extends de uma Built-in class
+// tendo em vista que o ES5 não tem esse suporte também.
+
+//console.log(numberArray.convert());
 //# sourceMappingURL=app.js.map

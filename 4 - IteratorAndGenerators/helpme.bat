@@ -1,6 +1,6 @@
 call npm run compile
 
-call cd .compiled/2 - ClassBasics
+call cd .compiled
 
 ECHO.
 ECHO ***__________________________________________________________________________***
